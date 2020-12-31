@@ -1,4 +1,4 @@
-First Test Repo on course Ruby on Rails Developers
+1. First Test Repo on course Ruby on Rails Developers
 
 # README
 
